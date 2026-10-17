@@ -1,0 +1,33 @@
+# OS generated files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+.DS_Store
+.DS_Store?
+
+# Compressed archives (large files)
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Server error logs
+error_log
+
+# Editor / IDE files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# PowerPoint / Word / internal docs
+*.pptx
+*.docx
+
+# PDF files (CV / personal docs)
+*.pdf
+
+# PHP environment
+.env
